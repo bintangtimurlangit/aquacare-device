@@ -1,3 +1,6 @@
 paho-mqtt
 qrcode
 pillow
+# Development dependencies
+flake8
+pytest
